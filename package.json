@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/topisteronyango/myapp.git"
+    "url":"git+https://github.com/Dev-Teelaw/lawalone.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/topisteronyango/myapp/issues"
+    "url": "https://github.com/Dev-Teelaw/lawalone/issues"
   },
-  "homepage": "https://github.com/topisteronyango/myapp#readme",
+  "homepage": "https://github.com/Dev-Teelaw/lawalone#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
     "cors": "^2.8.5",
